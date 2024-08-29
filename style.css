@@ -1,4 +1,4 @@
-body {
+body{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,7 +6,7 @@ body {
     background-color: black;
     margin: 0;
 }
-.clock {
+.clock{
     font-family: 'Digital-7', sans-serif;
     color: yellow;
     font-size: 100px;
